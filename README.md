@@ -4,11 +4,12 @@
 
 - 🔭 I’m currently working at [Virasty](https://virasty.com), [Gap Messanger](https://gap.im) and [NasimRezvan](https://app.nasimrezvan.com).
 
-- 📫 How to reach me **mqtstbh@gmail.com**, **[https://gap.im/sabereen]** and **[https://virasty.com/sabereen]**
+- 📫 How to reach me **mqtstbh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://gap.im/sabereen" target="blank"><img align="center" src="https://next.gap.im/icon_96x96.png" alt="sabereen" height="30" width="30" /></a>
+<a href="https://gap.im/sabereen" target="blank"><img align="center" src="https://web.gap.im/icon_96x96.png" alt="sabereen at gap" height="30" width="30" /></a>
+<a href="https://virasty.com/sabereen" target="blank"><img align="center" src="https://virasty.com/img/favicon.png" alt="sabereen at virasty" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
